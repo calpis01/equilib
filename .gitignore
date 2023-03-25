@@ -106,3 +106,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# equilib images
+scripts/images
+scripts/lines
+scripts/param
+data
